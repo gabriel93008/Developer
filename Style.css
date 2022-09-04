@@ -40,7 +40,7 @@
     color: rgb(75, 147, 230);
 }
 
-.Principal .Secundaria .links {
+.Principal .Secundaria .links{
     width: 100%;
     height: 20%;
     display: flex;
@@ -53,7 +53,7 @@
 .Principal .Secundaria .links .link {
     width: 80%;
     height: 40px;
-    background-color: transparent;
+    background-color:transparent;
     border: 2px solid rgb(75, 147, 230);
     color: rgb(75, 147, 230);
     text-decoration: none;
@@ -81,6 +81,8 @@
     height: 50px;
     margin: 13px;
 } 
+
+
 
 
 
