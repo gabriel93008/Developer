@@ -60,8 +60,17 @@
     align-items: center;
     text-align: center;
     justify-content: center;
-    cursor: pointer;
     padding: 5px;
+
+    -webkit-box-shadow: 14px 15px 8px -13px rgba(0,0,0,0.75);
+    -moz-box-shadow: 14px 15px 8px -13px rgba(0,0,0,0.75);
+    box-shadow: 14px 15px 8px -13px rgba(0,0,0,0.75);
+}
+
+.Principal .Secundaria .links .link:hover {
+    cursor: pointer;
+    color: rgb(180, 93, 231);
+    transition: 1s;
 }
 
 .Principal .Secundaria .socialmedia {
