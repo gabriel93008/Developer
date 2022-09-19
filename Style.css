@@ -69,8 +69,9 @@
 
 .Principal .Secundaria .links .link:hover {
     cursor: pointer;
-    color: rgb(180, 93, 231);
-    transition: 1s;
+    color: rgb(75, 147, 230);
+    background-color: aqua;
+    transition: 2s ;
 }
 
 .Principal .Secundaria .socialmedia {
